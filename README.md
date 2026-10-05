@@ -124,14 +124,11 @@ Food_Delivery_Analytics/
 └── README.md
 ```
 
-## 🔗 Tableau Public Demo
-
-Tableau Public: [Add your Tableau Public link here]
 
 ## 👩‍💻 Author
 
 **Purva Rahul Yenpure**  
-AI & Data Science Student
+AI & DS Student
 
 ---
 ⭐ *This project demonstrates how Tableau can be used to transform food delivery data into interactive dashboards and actionable business insights.*
